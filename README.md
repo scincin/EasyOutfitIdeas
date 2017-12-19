@@ -1,0 +1,2 @@
+# Kıyafet Öneri Sistemi
+	Kişilerin sabah uyandığı zaman günlük kıyafet seçimi sırasında yaşanan zaman kaybı çoğu zaman ruhsal problemlere yol açmaktadır. Bu neden ile projemiz bu soruna bir nevi çözüm arayışı sonucunda ortaya çıkmıştır. Tamamladığımız bu proje kişiye günlük hava sıcaklığı üzerinden tahmin yaparak kıyafet seçiminde kolaylık sağlamaktadır.
