@@ -79,8 +79,8 @@ public class DbConnection {
             }
             
             
-        } catch (SQLException ex) {
-            Logger.getLogger(DbConnection.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SQLException e) {
+            Logger.getLogger(DbConnection.class.getName()).log(Level.SEVERE, null, e);
         }
         return gelen;
     }
@@ -117,8 +117,8 @@ public class DbConnection {
             }
             
             
-        } catch (SQLException ex) {
-            Logger.getLogger(DbConnection.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SQLException e) {
+            Logger.getLogger(DbConnection.class.getName()).log(Level.SEVERE, null, e);
         }
         return gelen;
     }

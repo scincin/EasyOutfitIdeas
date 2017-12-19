@@ -55,7 +55,7 @@ public class verileri_listele extends javax.swing.JFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         txt_Veriler = new javax.swing.JTextArea();
 
-        setTitle("Led ve Buzzer Kontrolü");
+        setTitle("Led Kontrolü");
 
         txt_Veriler.setColumns(20);
         txt_Veriler.setRows(5);
